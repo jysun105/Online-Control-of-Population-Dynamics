@@ -1,3 +1,5 @@
+# This code corresponds to the experiments in Section 4 and Section I.
+
 import jax
 from jax import numpy as jnp
 from jax import grad, jit
